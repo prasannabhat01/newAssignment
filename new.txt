@@ -1,2 +1,3 @@
 echo "Printing message "
 hello.
+echo "Updated from feature branch"
